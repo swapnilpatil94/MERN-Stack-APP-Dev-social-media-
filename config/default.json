@@ -1,0 +1,4 @@
+{
+    "mongoURL": "mongodb+srv://swapnilpatil:swapnil123@devconnector-6h0ll.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "swapnilPatil123"
+}
